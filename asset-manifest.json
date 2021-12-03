@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/QLangstaff.github.io/static/css/main.f032619e.chunk.css",
+    "main.js": "/QLangstaff.github.io/static/js/main.b5b814b2.chunk.js",
+    "main.js.map": "/QLangstaff.github.io/static/js/main.b5b814b2.chunk.js.map",
+    "runtime-main.js": "/QLangstaff.github.io/static/js/runtime-main.10a42e07.js",
+    "runtime-main.js.map": "/QLangstaff.github.io/static/js/runtime-main.10a42e07.js.map",
+    "static/js/2.a052fc06.chunk.js": "/QLangstaff.github.io/static/js/2.a052fc06.chunk.js",
+    "static/js/2.a052fc06.chunk.js.map": "/QLangstaff.github.io/static/js/2.a052fc06.chunk.js.map",
+    "static/js/3.1820a95a.chunk.js": "/QLangstaff.github.io/static/js/3.1820a95a.chunk.js",
+    "static/js/3.1820a95a.chunk.js.map": "/QLangstaff.github.io/static/js/3.1820a95a.chunk.js.map",
+    "index.html": "/QLangstaff.github.io/index.html",
+    "static/css/main.f032619e.chunk.css.map": "/QLangstaff.github.io/static/css/main.f032619e.chunk.css.map",
+    "static/js/2.a052fc06.chunk.js.LICENSE.txt": "/QLangstaff.github.io/static/js/2.a052fc06.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10a42e07.js",
+    "static/js/2.a052fc06.chunk.js",
+    "static/css/main.f032619e.chunk.css",
+    "static/js/main.b5b814b2.chunk.js"
+  ]
+}
